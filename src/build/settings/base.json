@@ -1,0 +1,6 @@
+{
+    "app_name": "physical-units-converter",
+    "author": "lapisangularis",
+    "main_module": "src/main/python/__main__.py",
+    "version": "1.0.0"
+}
